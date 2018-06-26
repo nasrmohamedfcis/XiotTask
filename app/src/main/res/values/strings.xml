@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">ْXiot Task</string>
+    <string name="pref_name" translatable="false">user_data</string>
+    <string name="client_id">Client ID</string>
+    <string name="server">Server</string>
+    <string name="port">port</string>
+    <string name="clean_session">Clean Session</string>
+    <string name="connect">Connect</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Logged_out">Logged out</string>
+    <string name="hello">Hello</string>
+    <string name="bye">Bye</string>
+    <string name="topic">Topic</string>
+    <string name="subscribe">Subscribe</string>
+
+
+</resources>
